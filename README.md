@@ -13,6 +13,10 @@ Hey there, I am a Frontend Engineer with 9+ years of industry experience.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yuvraj24&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj24&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+# ✍️ Medium Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yuvraj24&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
