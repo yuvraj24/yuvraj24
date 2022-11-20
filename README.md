@@ -1,8 +1,9 @@
 # 💫 About Me:
-Hey there, I am a Frontend Engineer with 9+ years of industry experience
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-This is the place where I contribute & learn things 👨‍💻
+This is the place where I contribute & learn things 🫡
 
+👨‍💻  I’m a Frontend Engineer with 9+ years of industry experience<br/>
 🔭  I’m currently working on something cool 😉<br/>
 🌱  I’m currently learning Next.js, Golang<br/>
 💬  Ask me about anything related to Javascript/Typescript or React/Express/Node<br/>
@@ -38,10 +39,10 @@ This is the place where I contribute & learn things 👨‍💻
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yuvraj24&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Quote
+### ✍️ Some Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Meme
+### 😂 Some Random Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
