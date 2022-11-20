@@ -15,6 +15,11 @@ Hey there, I am a Frontend Engineer with 9+ years of industry experience.
 
 # ✍️ Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [React-Router : The ultimate Web Navigation library&lt;&gt;](https://yuvrajpy.medium.com/react-router-the-ultimate-web-navigation-library-69377a3747bb?source=rss-bb562157e991------2)
+- [Core Web Vitals — ️A Google Initiative to measure performance ⚡](https://yuvrajpy.medium.com/core-web-vitals-%EF%B8%8Fa-google-initiative-to-measure-performance-130a189cecfd?source=rss-bb562157e991------2)
+- [Frontend Performance Optimization with Code Splitting using React Lazy &amp; Suspense](https://yuvrajpy.medium.com/frontend-performance-optimization-with-code-splitting-using-react-lazy-suspense-1e0d1a85e32c?source=rss-bb562157e991------2)
+- [React : The Redux Way](https://medium.com/mindorks/react-the-redux-way-99d2fee97b5f?source=rss-bb562157e991------2)
+- [React Native : The Positive’s &amp; Negative’s](https://yuvrajpy.medium.com/react-native-the-positives-negative-s-f085af0c11a1?source=rss-bb562157e991------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
