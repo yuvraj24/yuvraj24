@@ -1,6 +1,13 @@
 # 💫 About Me:
-Hey there, I am a Frontend Engineer with 9+ years of industry experience.
+Hey there, I am a Frontend Engineer with 9+ years of industry experience
 
+This is the place where I contribute & learn things 👨‍💻
+
+🔭  I’m currently working on something cool 😉<br/>
+🌱  I’m currently learning Next.js, Golang<br/>
+💬  Ask me about anything related to Javascript/Typescript or React/Express/Node<br/>
+📫  How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvrajpy/)<br/>
+⚡  Fun fact: I ❤️ 🐶s and travelling places<br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/yuvraj.pandey.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yuvi_thefunnyguy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvrajpy/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://yuvrajpy.medium.com/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/6024848/yuvraj-pandey) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/yuvrajpy) <br/>
