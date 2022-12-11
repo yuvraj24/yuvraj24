@@ -35,14 +35,4 @@ This is the place where I contribute & learn things 🫡
 - [Flutter : Setting up Navigation Drawer](https://yuvrajpy.medium.com/flutter-setting-up-navigation-drawer-13ff058fa29f?source=rss-bb562157e991------2)
 - [Flutter : Working with Raised Button](https://yuvrajpy.medium.com/working-with-raised-button-in-flutter-6f5c0f71aab3?source=rss-bb562157e991------2)
 <!-- BLOG-POST-LIST:END -->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yuvraj24&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Some Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Some Random Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
