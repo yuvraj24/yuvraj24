@@ -1,16 +1,13 @@
-# 💫 About Me:
+<h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Yuvraj Pandey</h1>
+<h3 align="center">Senior Frontend Engineer @ <a href="https://www.thoughtworks.com/">Thoughtworks</a> with 9+ years of industry experience</h3>
 
-<h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Yuvraj Pandey</h1>
-<h4 align="center">Senior Frontend Engineer at <a href="https://www.thoughtworks.com/">Thoughtworks</a> with 9+ years of industry experience</h4>
-
-<br/>
 <br/>
 
 This is the place where I contribute & learn things 🫡
 
 🔭  I’m currently working on something cool 😉<br/>
 🌱  I’m currently learning Next.js, Golang<br/>
-💬  Ask me about anything related to Javascript/Typescript or React/Express/Node<br/>
+💬  Ask me about anything related to Javascript, Typescript, React, Express, Node, Mongo<br/>
 📫  How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvrajpy/)<br/>
 ⚡  Fun fact: I ❤️ 🐶s and travelling places<br/>
 
