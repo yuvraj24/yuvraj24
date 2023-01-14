@@ -1,10 +1,10 @@
-<h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Yuvraj Pandey</h1>
-<h3 align="center">Senior Frontend Engineer @ <a href="https://www.thoughtworks.com/">Thoughtworks</a> with 9+ years of industry experience</h3>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" /> I'm Yuvraj Pandey</h1>
+<h3 align="center">Senior Frontend Engineer @ <a href="https://www.thoughtworks.com/">Thoughtworks</a></h3>
 
 <br/>
 
-This is the place where I contribute & learn things 🫡
-
+This is the place where I contribute & learn things 🫡<br/><br/>
+👨‍💻  I have <strong>9+ years</strong> of industry experience<br/>
 🔭  I’m currently working on something cool 😉<br/>
 🌱  I’m currently learning Next.js, Golang<br/>
 💬  Ask me about anything related to Javascript, Typescript, React, Express, Node, Mongo<br/>
