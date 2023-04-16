@@ -25,6 +25,7 @@ This is the place where I contribute & learn things 🫡<br/><br/>
 
 ## ✍️ Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Web Evolution &amp; Static Site Generation &lpar;SSG&rpar; with Next.js](https://yuvrajpy.medium.com/web-evolution-static-site-generation-ssg-with-next-js-3598787da3a?source=rss-bb562157e991------2)
 - [React-Router : The ultimate Web Navigation library&lt;&gt;](https://yuvrajpy.medium.com/react-router-the-ultimate-web-navigation-library-69377a3747bb?source=rss-bb562157e991------2)
 - [Core Web Vitals — ️A Google Initiative to measure performance ⚡](https://yuvrajpy.medium.com/core-web-vitals-%EF%B8%8Fa-google-initiative-to-measure-performance-130a189cecfd?source=rss-bb562157e991------2)
 - [Frontend Performance Optimization with Code Splitting using React Lazy &amp; Suspense](https://yuvrajpy.medium.com/frontend-performance-optimization-with-code-splitting-using-react-lazy-suspense-1e0d1a85e32c?source=rss-bb562157e991------2)
@@ -34,6 +35,5 @@ This is the place where I contribute & learn things 🫡<br/><br/>
 - [RxSwift : Observing Operators ✅](https://yuvrajpy.medium.com/rxswift-observing-operators-c54b46a9a778?source=rss-bb562157e991------2)
 - [Bored of Snackbar &amp; Toast , LiveSmashBar to the rescue](https://yuvrajpy.medium.com/bored-of-snackbar-toast-livesmashbar-to-the-rescue-b124034033fc?source=rss-bb562157e991------2)
 - [Flutter : Setting up Navigation Drawer](https://yuvrajpy.medium.com/flutter-setting-up-navigation-drawer-13ff058fa29f?source=rss-bb562157e991------2)
-- [Flutter : Working with Raised Button](https://yuvrajpy.medium.com/working-with-raised-button-in-flutter-6f5c0f71aab3?source=rss-bb562157e991------2)
 <!-- BLOG-POST-LIST:END -->
 ---
