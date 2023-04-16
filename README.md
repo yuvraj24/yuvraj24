@@ -25,6 +25,7 @@ This is the place where I contribute & learn things 🫡<br/><br/>
 
 ## ✍️ Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Incremental Static Generation &lpar;ISG&rpar; with Next.js](https://yuvrajpy.medium.com/incremental-static-generation-isg-with-next-js-b2c605cdd7bb?source=rss-bb562157e991------2)
 - [Web Evolution &amp; Static Site Generation &lpar;SSG&rpar; with Next.js](https://yuvrajpy.medium.com/web-evolution-static-site-generation-ssg-with-next-js-3598787da3a?source=rss-bb562157e991------2)
 - [React-Router : The ultimate Web Navigation library&lt;&gt;](https://yuvrajpy.medium.com/react-router-the-ultimate-web-navigation-library-69377a3747bb?source=rss-bb562157e991------2)
 - [Core Web Vitals — ️A Google Initiative to measure performance ⚡](https://yuvrajpy.medium.com/core-web-vitals-%EF%B8%8Fa-google-initiative-to-measure-performance-130a189cecfd?source=rss-bb562157e991------2)
@@ -34,6 +35,5 @@ This is the place where I contribute & learn things 🫡<br/><br/>
 - [MVVM with RxSwift : The User Login](https://medium.com/swift2go/mvvm-with-rxswift-the-user-login-cc43df423c9e?source=rss-bb562157e991------2)
 - [RxSwift : Observing Operators ✅](https://yuvrajpy.medium.com/rxswift-observing-operators-c54b46a9a778?source=rss-bb562157e991------2)
 - [Bored of Snackbar &amp; Toast , LiveSmashBar to the rescue](https://yuvrajpy.medium.com/bored-of-snackbar-toast-livesmashbar-to-the-rescue-b124034033fc?source=rss-bb562157e991------2)
-- [Flutter : Setting up Navigation Drawer](https://yuvrajpy.medium.com/flutter-setting-up-navigation-drawer-13ff058fa29f?source=rss-bb562157e991------2)
 <!-- BLOG-POST-LIST:END -->
 ---
