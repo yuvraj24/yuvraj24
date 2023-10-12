@@ -8,7 +8,7 @@ This is the place where I contribute & learn things 🫡<br/><br/>
 🔭  I’m currently working on something cool 😉<br/>
 🌱  I’m currently learning Next.js, Golang<br/>
 💬  Ask me about anything related to Javascript, Typescript, React, Express, Node, Mongo<br/>
-📫  How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvrajpy/)<br/>
+📫  How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajpy/)<br/>
 ⚡  Fun fact: I ❤️ 🐶s and travelling places<br/>
 
 ## 🌐 Socials:
