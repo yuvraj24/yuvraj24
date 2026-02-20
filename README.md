@@ -25,7 +25,7 @@ This is the place where I contribute & learn things 🫡<br/><br/>
 
 ## ✍️ Medium Blogs
 <!-- BLOG-POST-LIST:START -->
-- [YAML: The Language of. Intent in Kubernetes](https://yuvrajpy.medium.com/yaml-the-language-of-intent-in-kubernetes-8e9158658960?source=rss-bb562157e991------2)
+- [YAML: The Language of Intent in Kubernetes](https://yuvrajpy.medium.com/yaml-the-language-of-intent-in-kubernetes-8e9158658960?source=rss-bb562157e991------2)
 - [The Blueprint of Modern Scaling: A Deep Dive into Kubernetes Architecture](https://yuvrajpy.medium.com/the-blueprint-of-modern-scaling-a-deep-dive-into-kubernetes-architecture-36f88628bc36?source=rss-bb562157e991------2)
 - [Incremental Static Generation &lpar;ISG&rpar; with Next.js](https://yuvrajpy.medium.com/incremental-static-generation-isg-with-next-js-b2c605cdd7bb?source=rss-bb562157e991------2)
 - [Web Evolution &amp; Static Site Generation &lpar;SSG&rpar; with Next.js](https://yuvrajpy.medium.com/web-evolution-static-site-generation-ssg-with-next-js-3598787da3a?source=rss-bb562157e991------2)
