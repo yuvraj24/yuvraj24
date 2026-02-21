@@ -1,13 +1,13 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" /> I'm Yuvraj Pandey</h1>
-<h3 align="center">Lead Consultant - Frontend @ <a href="https://www.thoughtworks.com/">Thoughtworks</a></h3>
+<h3 align="center">Lead Consultant - Software @ <a href="https://www.thoughtworks.com/">Thoughtworks</a></h3>
 
 <br/>
 
 This is the place where I contribute & learn things 🫡<br/><br/>
-👨‍💻  I have <strong>10+ years</strong> of industry experience<br/>
+👨‍💻  I have <strong>12+ years</strong> of Software Industry experience<br/>
 🔭  I’m currently working on something cool 😉<br/>
-🌱  I’m currently learning Next.js, Golang<br/>
-💬  Ask me about anything related to Javascript, Typescript, React, Express, Node, Mongo<br/>
+🌱  I’m currently learning Golang, building AI Workflows & Automations<br/>
+💬  Ask me about anything related to Javascript, Typescript, React, React Native, Express, Node, Mongodb, Kubernetes, n8n Automations, AI Agents, AI Workflows<br/>
 📫  How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajpy/)<br/>
 ⚡  Fun fact: I ❤️ 🐶s and travelling places<br/>
 
