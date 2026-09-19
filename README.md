@@ -4,10 +4,10 @@
 <br/>
 
 This is the place where I contribute & learn things 🫡<br/><br/>
-👨‍💻  I have <strong>12+ years</strong> of Software Industry experience<br/>
+👨‍💻  I have <strong>13+ years</strong> of Software Industry experience<br/>
 🔭  I’m currently working on something cool 😉<br/>
 🌱  I’m currently learning Golang, building AI Workflows & Automations<br/>
-💬  Ask me about anything related to Javascript, Typescript, React, React Native, Express, Node, Mongodb, Kubernetes, n8n Automations, AI Agents, AI Workflows<br/>
+💬  Ask me about anything related to Javascript, Typescript, React, React Native, Express, Node, Mongodb, GoLang, Kubernetes, n8n Automations, AI Agents, AI Workflows<br/>
 📫  How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajpy/)<br/>
 ⚡  Fun fact: I ❤️ 🐶s and travelling places<br/>
 
